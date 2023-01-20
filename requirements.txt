@@ -20,7 +20,7 @@ ipaddress==1.0.22
 Jinja2==2.10
 MarkupSafe==1.0
 mccabe==0.6.1
-mechanize==0.3.6
+mechanize==0.4.6
 more-itertools==5.0.0
 packaging==20.1
 paramiko==2.4.1
